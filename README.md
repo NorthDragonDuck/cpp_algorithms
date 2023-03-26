@@ -1,3 +1,3 @@
-# cpp_algorithms
+# cpp linked list and hash table algorithms
 
-University tasks 2022
+University tasks spring 2022
